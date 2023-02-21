@@ -5,3 +5,5 @@ This repository serves as a collection of boilerplates on which future projects 
 So far, files for the following techs are here:
 
 * Deno 
+
+Also, a general ```.editorconfig``` file is available. 
